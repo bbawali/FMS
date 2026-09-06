@@ -1,8 +1,1 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.shikshayatan.fms",
-        "sha256_cert_fingerprints": ["C5:12:65:76:32:E4:4A:5A:85:FA:B0:EB:B3:A6:79:52:39:24:40:A7:EC:86:95:EF:DE:D4:16:00:5D:97:E0:07"]
-      }
-    }]
+
